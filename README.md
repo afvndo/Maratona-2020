@@ -5,3 +5,6 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 
 # Link:
 https://maratona.dev/pt
+
+# Status:
+Acabei não conseguindo acompanhar a evolução das atividades devido a estudos paralelos, mas gostei muito do propósito da maratona e devo participar nas próximas se acontecerem.
